@@ -20,4 +20,12 @@ friends.remove("Mary")
 print(friends)
 
 
+lucky_numbers = [45, 56,98,34,23]
+friends = ["Harry", "Mary", "Janet", "Bob", "Halbert"]
+friends.remove("Mary")
+print(friends.index("Janet"))
 
+lucky_numbers = [45, 56,98,34,23]
+friends = ["Harry", "Mary", "Janet", "Bob", "Halbert"]
+lucky_numbers.sort()
+print(lucky_numbers)
